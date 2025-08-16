@@ -40,7 +40,7 @@ let colors = ["Black", "grey", "white", "red", "Black"];
 console.log(colors);
 
 // number 1 (test 2)
-let words = ["Valorant", "Bouquet", "Flowers", "honey"];
+let words = ["Valorant", "Bouquet", "Flowers", "money"];
 let transformedWords = [];
 
 for (let i = 0; i < words.length; i++) {
